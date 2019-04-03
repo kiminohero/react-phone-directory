@@ -2,7 +2,7 @@
 
 A Phone Directory application made using ReactJS and Redux.
 
-### Live here:
+### Live here: https://ecstatic-swanson-74abba.netlify.com/
 
 ## Features
 
