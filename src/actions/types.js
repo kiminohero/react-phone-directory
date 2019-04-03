@@ -1,0 +1,2 @@
+export const ADD_CONTACT = 'ADD_CONSTANT';
+export const DELETE_CONTACT = 'DELETE_CONSTANT';
